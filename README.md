@@ -7,7 +7,7 @@ This is the Laravel adapter for [Roach](https://roach-php.dev), the complete web
 Install the package via composer
 
 ```bash
-composer require roach-php/laravel
+composer require vhs/roach-laravel
 ```
 
 ## Documentation
