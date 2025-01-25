@@ -20,6 +20,7 @@
         "ergebnis/php-cs-fixer-config": "^6.19",
         "orchestra/testbench": "^7.0 || ^8.0 || ^9.0",
         "phpunit/phpunit": "^10.4",
+        "rector/rector": "^2.0",
         "roave/security-advisories": "dev-latest",
         "spatie/phpunit-snapshot-assertions": "^5.0"
     },
